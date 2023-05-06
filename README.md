@@ -1,2 +1,2 @@
 # UberNote
-Trying to recreate and replace notpate
+Trying to recreate and replace notepad
